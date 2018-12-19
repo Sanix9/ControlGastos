@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author Sanix
+ * @author Jorge Sanisaca
  */
 public class Principal extends javax.swing.JFrame {
 
